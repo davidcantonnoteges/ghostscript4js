@@ -27,7 +27,7 @@
   "engines": {
     "node": ">= 4.0.0"
   },
-  "gypfile": true,
+  "gypfile": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/NickNaso/ghostscript4js.git"
